@@ -1,6 +1,6 @@
 ### Olá, eu sou a Maitê Emanuely!🖐🏻💜
 
-Sou desenvolvedora Frontend ainda em formação, atualmente estou estudando novas tecnologias e me empenhando em sedenvolver novos projetos. 👩🏻‍💻
+Sou desenvolvedora Frontend ainda em formação, atualmente estou estudando novas tecnologias e me empenhando em desenvolver novos projetos. 👩🏻‍💻
 
 
 
